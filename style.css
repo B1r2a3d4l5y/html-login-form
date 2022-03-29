@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding:0;
+}
+body {
+    background-color: #1cac
+}
+.form {
+    display: block;
+    text-align: center;
+    height: 100%;
+    width: 150px;
+
+}
+.button {
+    display: block;
+    text-align: center;
+    
+    margin-left: 59px;
+}
